@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cviko4-Mapy</string>
+    <string name="btn_text_openMap">Otvor mapu</string>
+    <string name="title_activity_maps">Mapa</string>
+</resources>
