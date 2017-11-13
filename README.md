@@ -9,6 +9,7 @@ This material is a set of apps used for the educational purpose. Each app is ori
 * Cviko 3 - Handler and runnable, Explicit intents (note: Thread was used only because of questions during class - it has no function in the app)
 * Cviko 4 - Using maps API from google, drawing into the google maps, getting precise location from GPS sensors.
 * Cviko 5 - Implementing the RecyclerView with the ViewHolder pattern.
+
 ToBeDeveloped ...
 * Cviko 6 - SQLite implementation with direct access to DB without the ContentProvider 
 * Cviko 7 - Using smartphone sensors
